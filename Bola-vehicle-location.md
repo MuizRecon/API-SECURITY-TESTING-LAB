@@ -25,7 +25,7 @@ The response was just recent forum posts — nothing unusual on the surface. But
   ...
 }
 ```
-[Community Vehicle IDs](../screenshots/community-vehicle-ids.png)
+[Community Vehicle IDs](../main/screenshots/community-vehicle-ids.png)
 
 That stopped me. This is a forum endpoint, its job is to show posts. It has no business handing out another user's internal vehicle UUID alongside their real name and email. But there it was, for every author, on every post, just by having a valid token. No special permissions, no digging, it's returned by default.
 
