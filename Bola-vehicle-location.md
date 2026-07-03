@@ -55,7 +55,7 @@ And got this back:
 }
 ```
 
-[Modified Request and Response](../main/screenshots/modified-request-response.png)
+[Modified Request and Response](../main/screenshots/modified-request-and-response.png)
 
 My token, someone else's vehicle ID, and the API just handed back their live coordinates along with their name and email, again, no ownership check at all.
 
