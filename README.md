@@ -104,3 +104,35 @@ The next phase of this project will include:
 - Access control testing across users
 - JWT attack simulation
 - Writing full vulnerability reports with remediation steps
+- ## Repository Structure
+
+
+crapi-lab/
+├── README.md
+├── happy-path.md
+├── findings/
+├── screenshots/
+└── tools/
+
+
+---
+
+## Tools Used
+
+- Burp Suite
+- Browser DevTools
+- Mailhog
+- Docker-based crAPI environment
+
+---
+
+## Disclaimer
+
+This project is performed in a safe, local, intentionally vulnerable environment for educational purposes only.
+
+No real systems or external services are targeted.
+
+---
+
+
+
