@@ -105,16 +105,6 @@ The next phase of this project will include:
 - JWT attack simulation
 - Writing full vulnerability reports with remediation steps
 - ## Repository Structure
-
-
-crapi-lab/
-├── README.md
-├── happy-path.md
-├── findings/
-├── screenshots/
-└── tools/
-
-
 ---
 
 ## Tools Used
