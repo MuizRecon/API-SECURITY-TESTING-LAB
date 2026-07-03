@@ -104,7 +104,7 @@ The next phase of this project will include:
 - Access control testing across users
 - JWT attack simulation
 - Writing full vulnerability reports with remediation steps
-- ## Repository Structure
+
 ---
 
 ## Tools Used
