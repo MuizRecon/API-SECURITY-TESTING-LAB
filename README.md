@@ -3,7 +3,7 @@
 
 This repository documents my hands-on security testing work against the intentionally vulnerable **crAPI (Completely Ridiculous API)** application.
 
-The goal of this project is to understand real-world API security issues by exploring authentication flows, object-level access, and common OWASP API vulnerabilities in a controlled lab environment.
+The goal of this project is to understand real-world API security issues by exploring authentication flows, object-level access, and common OWASP API vulnerabilities in a controlled lab environment. 
 
 ---
 
