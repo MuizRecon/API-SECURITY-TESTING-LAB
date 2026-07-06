@@ -25,7 +25,7 @@ The response initially looked perfectly normal:
   "profileVideo": "data:image/jpeg;base64,..."
 }
 ```
-[Burp Suite Request and Response](../screenshots/Excessive-Data-Exposure.png)
+[Burp Suite Request and Response](../main/screenshots/Excessive-Data-Exposure.png)
 Most of the fields made sense for a client application. The video ID identifies the resource, the filename is displayed to the user, and the thumbnail is used by the frontend.
 
 One field immediately stood out though:
