@@ -81,7 +81,8 @@ I wrote a small Python script that:
 The goal wasn't just to brute-force the OTP—it was to answer a simple question:
 
 > **Could an attacker realistically abuse this endpoint?**
-
+[otp_validation_tester.py](tools/otp_validation_tester.py)
+[Successful OTP Automation](screenshots/screenshot_of_successful_automation.png)
 ---
 
 ## What happened
