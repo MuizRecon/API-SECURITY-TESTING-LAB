@@ -98,7 +98,7 @@ The application had already solved the brute-force problem—but only in the lat
 
 By sending requests to the legacy endpoint instead, I was able to bypass those protections completely.
 
-
+[Password Reset Success](screenshots/password-reset-success.png)
 ---
 
 ## Confirming it wasn't a one-off
